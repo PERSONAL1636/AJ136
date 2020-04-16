@@ -3,4 +3,7 @@ welcome :)
 
 It is the first file .
 
+"trying to explore github and git"
+
+
 Thnak you :)
